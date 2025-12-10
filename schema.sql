@@ -1,7 +1,7 @@
 -- =============================================
 -- Investment Portfolio Management System
 -- Database Schema for SQL Server
--- Author: [Your Name]
+-- Author: Gabriel Araújo
 -- Date: December 2025
 -- Description: Complete database schema for portfolio management system
 -- =============================================
